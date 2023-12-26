@@ -1,0 +1,14 @@
+{
+	"Crar comentario para una clase": {
+		"prefix": "**c",
+		"body": [
+		  "    /**",
+		  "     * <descripción del objetivo de la clase> ",
+		  "     * @author JonatanLara <laraortizjonatan@gmail.com>",
+		  "     * @version 1.0.0",
+		  "     * @date 23/12/23",
+		  "    */"
+		],
+		"description": "Crar comentario para una clase"
+	  }
+}

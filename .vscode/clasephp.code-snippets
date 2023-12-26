@@ -1,0 +1,16 @@
+{
+	"Para crear clases con php": {
+		"prefix": "cphp",
+		"body": [
+		  "<?php",
+		  "    class Clase {",
+		  "",
+		  "        function __construct(){",
+		  "            ",
+		  "        }",
+		  "    }",
+		  "?>"
+		],
+		"description": "Para crear clases con php"
+	  }
+}

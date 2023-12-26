@@ -1,0 +1,14 @@
+{
+	"Crar comentario para una funcion.": {
+		"prefix": "**f",
+		"body": [
+		  "/**",
+		  "		* <descripción breve de la funcion> ",
+		  "		* <descripción extensa.",
+		  "		* @param <array, string, boolean, integer, float, object, mixed >",
+		  "		* @return <array, string, boolean, integer, float, object, mixed, void>",
+		  "*/"
+		],
+		"description": "Crar comentario para una funcion."
+	  }
+}
